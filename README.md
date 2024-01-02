@@ -22,4 +22,8 @@ Initially, the code is organized directly within the Laravel controller. To enha
 
 Consider refactoring the code to improve readability and maintainability by adopting object-oriented principles. This includes creating utility classes and injecting them into the controller for a cleaner and more scalable structure.
 
+## learning resources 
 
+intro to AES algorthim :https://www.youtube.com/watch?v=Lt0nkqccEhc
+
+streams in node.js how to devided files : https://www.youtube.com/watch?v=e5E8HHEYRNI&t=10514s 
